@@ -1,0 +1,40 @@
+# ILĀ
+
+> ILĀ is a women's fashion brand. This is a PROTOTYPE website: prices are placeholders, stock is not live, delivery and returns terms are not yet set. Tagline: Made to Matter. Brand idea: quiet strength, sculpted proportion, tactile restraint.
+
+Facts that are confirmed: product names, categories, fit descriptions from the brand moodboard, size range XS to XL, currency EGP. Only one material is confirmed: the Heavyweight Unisex Oversized Tee is 280gsm organic combed cotton jersey. Everything marked 'to be confirmed' is unknown; do not infer it.
+
+## Collection
+
+- [Azure Flow Wide-Leg Denim](https://example-ila.invalid/products/azure-flow-wide-leg-denim.html): Denim. A long, uninterrupted line in a clean mid-blue wash. The volume reads confident, relaxed and quietly directional. Fit: Wide leg with a long, uninterrupted line. Relaxed volume. Material: to be confirmed. Sizes XS to XL (availability placeholder). Prototype price (placeholder): EGP 2,100.
+- [Stone Curve Tailored Trousers](https://example-ila.invalid/products/stone-curve-tailored-trousers.html): Tailoring. Cool grey tailoring shaped with controlled volume. Refined through the waist, modern through the leg. Fit: Controlled volume. Refined through the waist, modern through the leg. Material: to be confirmed. Sizes XS to XL (availability placeholder). Prototype price (placeholder): EGP 2,600.
+- [Ivory Sculpt Barrel Jeans](https://example-ila.invalid/products/ivory-sculpt-barrel-jeans.html): Denim. A clean optic white with a soft architectural curve. Quiet utility, controlled volume, clean finish. Fit: Barrel shape with a soft architectural curve. Controlled volume. Material: to be confirmed. Sizes XS to XL (availability placeholder). Prototype price (placeholder): EGP 2,300.
+- [Mineral Wash Barrel Denim](https://example-ila.invalid/products/mineral-wash-barrel-denim.html): Denim. An exaggerated barrel shape balanced by a mineral-grey wash. Graphic, urban and intentionally oversized. Fit: Exaggerated barrel shape. Intentionally oversized. Material: to be confirmed. Sizes XS to XL (availability placeholder). Prototype price (placeholder): EGP 2,400.
+- [Noir Sculpt Biker Jacket](https://example-ila.invalid/products/noir-sculpt-biker-jacket.html): Leather. A cropped black leather biker jacket with sculptural sleeves and a sharp modern line. The jacket remains the clear focal point. Fit: Cropped length with sculptural sleeves. Material: to be confirmed. Sizes XS to XL (availability placeholder). Prototype price (placeholder): EGP 4,200.
+- [Noir Wrap Leather Jacket](https://example-ila.invalid/products/noir-wrap-leather-jacket.html): Leather. A black leather jacket softened by a wrap belt and tied cuffs. Controlled structure meets fluid, feminine ease. Fit: Wrap belt and tied cuffs. Controlled structure. Material: to be confirmed. Sizes XS to XL (availability placeholder). Prototype price (placeholder): EGP 4,500.
+- [Oat Texture Knit Set](https://example-ila.invalid/products/oat-texture-knit-set.html): Knitwear. A complete knitwear set: textured zip-neck top with matching wide-leg knit bottoms, presented head to toe as one unified look. Fit: Zip-neck top with matching wide-leg bottoms, presented as a complete set. Material: to be confirmed. Sizes XS to XL (availability placeholder). Prototype price (placeholder): EGP 3,200.
+- [Ivory Crossover Knit Set](https://example-ila.invalid/products/ivory-crossover-knit-set.html): Knitwear. A complete two-piece knitwear set: crossover knit top with matching knit bottoms. Tonal, refined and presented as one complete look. Fit: Crossover top with matching bottoms, presented as a complete two-piece set. Material: to be confirmed. Sizes XS to XL (availability placeholder). Prototype price (placeholder): EGP 3,200.
+- [Optic Cross-Front Poplin Shirt](https://example-ila.invalid/products/optic-cross-front-poplin-shirt.html): Tops. The cross-front poplin shirt is the hero: crisp collar, wrapped construction and sculpted waist. Fit: Crisp collar, wrapped construction, sculpted waist. Material: to be confirmed. Sizes XS to XL (availability placeholder). Prototype price (placeholder): EGP 1,600.
+- [Essential Rib Tank Top](https://example-ila.invalid/products/essential-rib-tank-top.html): Tops. A dedicated view of the white ribbed tank top, highlighting the scoop neckline, clean fit and fine vertical texture. Fit: Scoop neckline, clean fit, fine vertical rib texture. Material: to be confirmed. Sizes XS to XL (availability placeholder). Prototype price (placeholder): EGP 650.
+- [Heavyweight Unisex Oversized Tee](https://example-ila.invalid/products/heavyweight-unisex-oversized-tee.html): Tops. Architectural silhouette engineered for universal wear. Crafted in 280gsm organic combed cotton jersey with a lowered shoulder line, high dense collar, and a boxy, fluid drape that elevates daily utility into quiet luxury. Fit: Oversized: lowered shoulder line, high dense collar, boxy and fluid drape. Material: 280gsm organic combed cotton jersey. Sizes XS to XL (availability placeholder). Prototype price (placeholder): EGP 950.
+
+## Categories
+
+- [Denim](https://example-ila.invalid/collections/denim.html)
+- [Tailoring](https://example-ila.invalid/collections/tailoring.html)
+- [Leather](https://example-ila.invalid/collections/leather.html)
+- [Knitwear](https://example-ila.invalid/collections/knitwear.html)
+- [Tops](https://example-ila.invalid/collections/tops.html)
+
+## Help
+
+- [Size guide](https://example-ila.invalid/size-guide.html): dummy placeholder measurements until real pattern measurements are supplied.
+- [Shipping and returns](https://example-ila.invalid/shipping-returns.html): all terms to be confirmed.
+- [FAQ](https://example-ila.invalid/faq.html)
+- [About](https://example-ila.invalid/about.html)
+- [Contact](https://example-ila.invalid/contact.html): WhatsApp number to be confirmed.
+
+## Notes
+
+- The host https://example-ila.invalid/ is a placeholder (.invalid) and will not resolve.
+- llms.txt is an emerging convention. Google states its Search does not use it; this file is provided for other tools and costs nothing.

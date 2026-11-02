@@ -1,0 +1,18 @@
+{
+  "_readme": "PLACEHOLDER PRICES for the SITE B prototype. ILA has not supplied prices. Replace every value before any real use, then run: python3 tools/build.py",
+  "currency": "EGP",
+  "placeholder": true,
+  "prices": {
+    "noir-sculpt-biker-jacket": 4200,
+    "noir-wrap-leather-jacket": 4500,
+    "azure-flow-wide-leg-denim": 2100,
+    "ivory-sculpt-barrel-jeans": 2300,
+    "mineral-wash-barrel-denim": 2400,
+    "stone-curve-tailored-trousers": 2600,
+    "oat-texture-knit-set": 3200,
+    "ivory-crossover-knit-set": 3200,
+    "optic-cross-front-poplin-shirt": 1600,
+    "essential-rib-tank-top": 650,
+    "heavyweight-unisex-oversized-tee": 950
+  }
+}

@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en" data-root=""><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Checkout as guest | ILĀ</title><meta name="description" content="Guest checkout for the ILĀ prototype. No order is placed and nothing is sent."><meta name="robots" content="noindex, follow"><link rel="canonical" href="https://example-ila.invalid/checkout.html"><meta property="og:site_name" content="ILĀ"><meta property="og:type" content="website"><meta property="og:title" content="Checkout as guest | ILĀ"><meta property="og:description" content="Guest checkout for the ILĀ prototype. No order is placed and nothing is sent."><meta property="og:url" content="https://example-ila.invalid/checkout.html"><meta property="og:image" content="https://example-ila.invalid/assets/img/og/default.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:locale" content="en_US"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Checkout as guest | ILĀ"><meta name="twitter:description" content="Guest checkout for the ILĀ prototype. No order is placed and nothing is sent."><meta name="twitter:image" content="https://example-ila.invalid/assets/img/og/default.jpg"><meta name="theme-color" content="#EAE5DF"><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="preload" href="assets/fonts/PlusJakartaSans-latin.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="assets/css/site.css"><script src="data/catalog.js" defer></script><script src="assets/js/app.js" defer></script></head><body class="checkout-page"><a class="skip" href="#main">Skip to content</a><section class="proto-banner" aria-label="Prototype notice">Prototype: prices and stock are placeholders</section><header class="mini-hdr"><div class="wrap hdr"><div class="hdr-start"><a class="link-btn" href="cart.html">Back to bag</a></div><a class="wordmark" href="index.html" aria-label="ILĀ, home"><img src="assets/img/wordmark-black.svg" width="388" height="93" alt=""></a><div></div></div></header><main id="main" tabindex="-1"><div class="wrap checkout">
+  <div>
+    <h1 class="vh">Checkout</h1>
+    <div class="guest-head"><h2>Checkout as guest</h2><p>No account needed. We ask only for what delivery needs.</p></div>
+    <div class="notice"><strong>Prototype: this form does not place an order.</strong> Nothing you enter is sent anywhere. Payment options are shown as planned items and are not functional.</div>
+    <div class="err-summary" id="err-summary" role="alert" tabindex="-1"><strong>Please fix these fields:</strong><ul id="err-list"></ul></div>
+    <form id="checkout-form" novalidate>
+      <fieldset class="fieldset"><legend>Contact</legend>
+        <div class="field"><label for="c-name">Full name</label><input class="input" id="c-name" name="name" autocomplete="name" required aria-describedby="c-name-err"><p class="err" id="c-name-err" data-for="name">Enter your full name.</p></div>
+        <div class="form-grid two">
+          <div class="field"><label for="c-phone">Mobile number</label><input class="input" id="c-phone" name="phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="01X XXXX XXXX" data-validate="phone" aria-describedby="c-phone-err" required><p class="err" id="c-phone-err" data-for="phone">Enter an Egyptian mobile number, for example 010 1234 5678.</p></div>
+          <div class="field"><label for="c-email">Email <span class="opt">(optional)</span></label><input class="input" id="c-email" name="email" type="email" autocomplete="email" inputmode="email" aria-describedby="c-email-err"><p class="err" id="c-email-err" data-for="email">Enter a valid email address or leave it empty.</p></div>
+        </div>
+      </fieldset>
+      <fieldset class="fieldset"><legend>Delivery address</legend>
+        <div class="form-grid two">
+          <div class="field"><label for="c-gov">Governorate</label><select class="input" id="c-gov" name="governorate" autocomplete="address-level1" required aria-describedby="c-gov-err c-gov-note"><option value="">Select governorate</option><option>Cairo</option><option>Giza</option><option>Alexandria</option><option>Qalyubia</option><option>Port Said</option><option>Suez</option><option>Dakahlia</option><option>Sharqia</option><option>Gharbia</option><option>Monufia</option><option>Beheira</option><option>Kafr El Sheikh</option><option>Damietta</option><option>Ismailia</option><option>Faiyum</option><option>Beni Suef</option><option>Minya</option><option>Assiut</option><option>Sohag</option><option>Qena</option><option>Luxor</option><option>Aswan</option><option>Red Sea</option><option>New Valley</option><option>Matrouh</option><option>North Sinai</option><option>South Sinai</option></select><p class="err" id="c-gov-err" data-for="governorate">Select your governorate.</p></div>
+          <div class="field"><label for="c-city">City or area</label><input class="input" id="c-city" name="city" autocomplete="address-level2" required aria-describedby="c-city-err"><p class="err" id="c-city-err" data-for="city">Enter your city or area.</p></div>
+        </div>
+        <p class="field-note" id="c-gov-note" style="margin-block:-8px 18px">Delivery coverage is to be confirmed. The first target cities are Cairo and Alexandria.</p>
+        <div class="field"><label for="c-addr">Street and building</label><input class="input" id="c-addr" name="address" autocomplete="street-address" required aria-describedby="c-addr-err"><p class="err" id="c-addr-err" data-for="address">Enter your street and building number.</p></div>
+        <button class="link-btn" type="button" id="addr2-toggle" aria-expanded="false" aria-controls="addr2-wrap">Add apartment, floor or landmark</button>
+        <div class="field" id="addr2-wrap" hidden><label for="c-addr2">Apartment, floor or landmark <span class="opt">(optional)</span></label><input class="input" id="c-addr2" name="address2" autocomplete="address-line2"></div>
+      </fieldset>
+      <fieldset class="fieldset"><legend>Delivery method</legend>
+        <div class="radio-card"><span></span><span><b>Standard delivery</b><small>Cost and delivery time: to be confirmed.</small></span><span class="badge">To be confirmed</span></div>
+      </fieldset>
+      <fieldset class="fieldset"><legend>Payment</legend>
+        <p class="field-note" style="margin-block:-6px 12px">All four options are planned and not functional. Choose one to see how the flow ends.</p>
+        <label class="radio-card"><input type="radio" name="payment" value="cod" checked><span><b>Cash on delivery</b><small>Pay when your order arrives.</small></span><span class="badge">Planned</span></label><label class="radio-card"><input type="radio" name="payment" value="card"><span><b>Card</b><small>Local and international cards.</small></span><span class="badge">Planned</span></label><label class="radio-card"><input type="radio" name="payment" value="wallet"><span><b>Mobile wallet</b><small>Pay from a mobile wallet.</small></span><span class="badge">Planned</span></label><label class="radio-card"><input type="radio" name="payment" value="instapay"><span><b>InstaPay</b><small>Instant transfer from your bank app.</small></span><span class="badge">Planned</span></label>
+      </fieldset>
+      <button class="btn btn-block" type="submit" id="place-btn">Place prototype order</button>
+      <p class="field-note">Prototype: this does not place an order, take payment or send data.</p>
+    </form>
+  </div>
+  <aside aria-label="Order summary"><div class="summary" id="checkout-summary"></div></aside>
+</div></main></body></html>

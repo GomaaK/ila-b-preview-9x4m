@@ -1,0 +1,523 @@
+{
+ "brand": {
+  "name": "ILĀ",
+  "wordmark": "I L Ā",
+  "tagline": "Made to matter.",
+  "palette": {
+   "eggshell": "#EAE5DF",
+   "burgundy": "#44202F",
+   "black": "#000000",
+   "white": "#FFFFFF"
+  },
+  "type": "editorial serif + clean sans + generous space",
+  "north_star": "Quiet strength. Sculpted proportion. Tactile restraint.",
+  "pillars": [
+   "Presence",
+   "Proportion",
+   "Purpose"
+  ],
+  "campaign": {
+   "camera": "Quiet, frontal presence",
+   "light": "Soft limestone warmth",
+   "styling": "Tonal, precise, modern",
+   "finish": "Grain, restraint, space"
+  }
+ },
+ "products": [
+  {
+   "slug": "azure-flow-wide-leg-denim",
+   "name": "Azure Flow Wide-Leg Denim",
+   "category": "denim",
+   "category_name": "Denim",
+   "eyebrow": "Fluid volume",
+   "description": "A long, uninterrupted line in a clean mid-blue wash. The volume reads confident, relaxed and quietly directional.",
+   "tags": [
+    "Fluid",
+    "Elongated",
+    "Ease"
+   ],
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "images": [
+    {
+     "id": "azure-flow-wide-leg-denim-a",
+     "widths": [
+      360,
+      640,
+      1000
+     ],
+     "w": 1000,
+     "h": 1333,
+     "kind": "photo"
+    },
+    {
+     "id": "azure-flow-wide-leg-denim-d",
+     "widths": [
+      360,
+      640
+     ],
+     "w": 640,
+     "h": 853,
+     "kind": "detail-crop",
+     "crop": "lower"
+    }
+   ],
+   "source": "ILA Premium Collection Moodboard, as supplied by client"
+  },
+  {
+   "slug": "stone-curve-tailored-trousers",
+   "name": "Stone Curve Tailored Trousers",
+   "category": "tailoring",
+   "category_name": "Tailoring",
+   "eyebrow": "Sculpted ease",
+   "description": "Cool grey tailoring shaped with controlled volume. Refined through the waist, modern through the leg.",
+   "tags": [
+    "Sculpted",
+    "Tailored",
+    "Modern"
+   ],
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "images": [
+    {
+     "id": "stone-curve-tailored-trousers-a",
+     "widths": [
+      360,
+      640,
+      1000
+     ],
+     "w": 1000,
+     "h": 1336,
+     "kind": "photo"
+    },
+    {
+     "id": "stone-curve-tailored-trousers-d",
+     "widths": [
+      360,
+      640
+     ],
+     "w": 640,
+     "h": 853,
+     "kind": "detail-crop",
+     "crop": "lower"
+    }
+   ],
+   "source": "ILA Premium Collection Moodboard, as supplied by client"
+  },
+  {
+   "slug": "ivory-sculpt-barrel-jeans",
+   "name": "Ivory Sculpt Barrel Jeans",
+   "category": "denim",
+   "category_name": "Denim",
+   "eyebrow": "Architectural white",
+   "description": "A clean optic white with a soft architectural curve. Quiet utility, controlled volume, clean finish.",
+   "tags": [
+    "Quiet utility",
+    "Controlled volume",
+    "Clean finish"
+   ],
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "images": [
+    {
+     "id": "ivory-sculpt-barrel-jeans-a",
+     "widths": [
+      360,
+      640,
+      1000
+     ],
+     "w": 1000,
+     "h": 1333,
+     "kind": "photo"
+    },
+    {
+     "id": "ivory-sculpt-barrel-jeans-d",
+     "widths": [
+      360,
+      640
+     ],
+     "w": 640,
+     "h": 853,
+     "kind": "detail-crop",
+     "crop": "lower"
+    }
+   ],
+   "source": "ILA Premium Collection Moodboard, as supplied by client"
+  },
+  {
+   "slug": "mineral-wash-barrel-denim",
+   "name": "Mineral Wash Barrel Denim",
+   "category": "denim",
+   "category_name": "Denim",
+   "eyebrow": "Directional volume",
+   "description": "An exaggerated barrel shape balanced by a mineral-grey wash. Graphic, urban and intentionally oversized.",
+   "tags": [
+    "Graphic",
+    "Oversized",
+    "Urban"
+   ],
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "images": [
+    {
+     "id": "mineral-wash-barrel-denim-a",
+     "widths": [
+      360,
+      640,
+      1000
+     ],
+     "w": 1000,
+     "h": 1333,
+     "kind": "photo"
+    },
+    {
+     "id": "mineral-wash-barrel-denim-d",
+     "widths": [
+      360,
+      640
+     ],
+     "w": 640,
+     "h": 853,
+     "kind": "detail-crop",
+     "crop": "lower"
+    }
+   ],
+   "source": "ILA Premium Collection Moodboard, as supplied by client"
+  },
+  {
+   "slug": "noir-sculpt-biker-jacket",
+   "name": "Noir Sculpt Biker Jacket",
+   "category": "leather",
+   "category_name": "Leather",
+   "eyebrow": "Sculpted edge",
+   "description": "A cropped black leather biker jacket with sculptural sleeves and a sharp modern line. The jacket remains the clear focal point.",
+   "tags": [
+    "Cropped",
+    "Sculpted",
+    "Biker"
+   ],
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "images": [
+    {
+     "id": "noir-sculpt-biker-jacket-a",
+     "widths": [
+      360,
+      640,
+      1000
+     ],
+     "w": 1000,
+     "h": 1333,
+     "kind": "photo"
+    },
+    {
+     "id": "noir-sculpt-biker-jacket-d",
+     "widths": [
+      360,
+      640
+     ],
+     "w": 640,
+     "h": 853,
+     "kind": "detail-crop",
+     "crop": "upper"
+    }
+   ],
+   "source": "ILA Premium Collection Moodboard, as supplied by client"
+  },
+  {
+   "slug": "noir-wrap-leather-jacket",
+   "name": "Noir Wrap Leather Jacket",
+   "category": "leather",
+   "category_name": "Leather",
+   "eyebrow": "Wrapped form",
+   "description": "A black leather jacket softened by a wrap belt and tied cuffs. Controlled structure meets fluid, feminine ease.",
+   "tags": [
+    "Wrapped",
+    "Belted",
+    "Leather"
+   ],
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "images": [
+    {
+     "id": "noir-wrap-leather-jacket-a",
+     "widths": [
+      360,
+      640,
+      1000
+     ],
+     "w": 1000,
+     "h": 1333,
+     "kind": "photo"
+    },
+    {
+     "id": "noir-wrap-leather-jacket-d",
+     "widths": [
+      360,
+      640
+     ],
+     "w": 640,
+     "h": 853,
+     "kind": "detail-crop",
+     "crop": "upper"
+    }
+   ],
+   "source": "ILA Premium Collection Moodboard, as supplied by client"
+  },
+  {
+   "slug": "oat-texture-knit-set",
+   "name": "Oat Texture Knit Set",
+   "category": "knitwear",
+   "category_name": "Knitwear",
+   "eyebrow": "Complete set",
+   "description": "A complete knitwear set: textured zip-neck top with matching wide-leg knit bottoms, presented head to toe as one unified look.",
+   "tags": [
+    "Matching",
+    "Textured",
+    "Complete set"
+   ],
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "images": [
+    {
+     "id": "oat-texture-knit-set-a",
+     "widths": [
+      360,
+      640,
+      1000
+     ],
+     "w": 1000,
+     "h": 1333,
+     "kind": "photo"
+    },
+    {
+     "id": "oat-texture-knit-set-d",
+     "widths": [
+      360,
+      640
+     ],
+     "w": 640,
+     "h": 853,
+     "kind": "detail-crop",
+     "crop": "upper"
+    }
+   ],
+   "source": "ILA Premium Collection Moodboard, as supplied by client"
+  },
+  {
+   "slug": "ivory-crossover-knit-set",
+   "name": "Ivory Crossover Knit Set",
+   "category": "knitwear",
+   "category_name": "Knitwear",
+   "eyebrow": "Complete set",
+   "description": "A complete two-piece knitwear set: crossover knit top with matching knit bottoms. Tonal, refined and presented as one complete look.",
+   "tags": [
+    "Two-piece",
+    "Tonal",
+    "Complete set"
+   ],
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "images": [
+    {
+     "id": "ivory-crossover-knit-set-a",
+     "widths": [
+      360,
+      640,
+      1000
+     ],
+     "w": 1000,
+     "h": 1333,
+     "kind": "photo"
+    },
+    {
+     "id": "ivory-crossover-knit-set-d",
+     "widths": [
+      360,
+      640
+     ],
+     "w": 640,
+     "h": 853,
+     "kind": "detail-crop",
+     "crop": "upper"
+    }
+   ],
+   "source": "ILA Premium Collection Moodboard, as supplied by client"
+  },
+  {
+   "slug": "optic-cross-front-poplin-shirt",
+   "name": "Optic Cross-Front Poplin Shirt",
+   "category": "tops",
+   "category_name": "Tops",
+   "eyebrow": "Product focus",
+   "description": "The cross-front poplin shirt is the hero: crisp collar, wrapped construction and sculpted waist.",
+   "tags": [
+    "Cross-front",
+    "Poplin",
+    "Shirt"
+   ],
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "images": [
+    {
+     "id": "optic-cross-front-poplin-shirt-a",
+     "widths": [
+      360,
+      640,
+      1000
+     ],
+     "w": 1000,
+     "h": 1333,
+     "kind": "photo"
+    },
+    {
+     "id": "optic-cross-front-poplin-shirt-d",
+     "widths": [
+      360,
+      640
+     ],
+     "w": 640,
+     "h": 853,
+     "kind": "detail-crop",
+     "crop": "upper"
+    }
+   ],
+   "source": "ILA Premium Collection Moodboard, as supplied by client"
+  },
+  {
+   "slug": "essential-rib-tank-top",
+   "name": "Essential Rib Tank Top",
+   "category": "tops",
+   "category_name": "Tops",
+   "eyebrow": "Product focus",
+   "description": "A dedicated view of the white ribbed tank top, highlighting the scoop neckline, clean fit and fine vertical texture.",
+   "tags": [
+    "Ribbed",
+    "Scoop neck",
+    "Tank top"
+   ],
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "images": [
+    {
+     "id": "essential-rib-tank-top-a",
+     "widths": [
+      360,
+      640,
+      1000
+     ],
+     "w": 1000,
+     "h": 1333,
+     "kind": "photo"
+    },
+    {
+     "id": "essential-rib-tank-top-d",
+     "widths": [
+      360,
+      640
+     ],
+     "w": 640,
+     "h": 853,
+     "kind": "detail-crop",
+     "crop": "upper"
+    }
+   ],
+   "source": "ILA Premium Collection Moodboard, as supplied by client"
+  },
+  {
+   "slug": "heavyweight-unisex-oversized-tee",
+   "name": "Heavyweight Unisex Oversized Tee",
+   "category": "tops",
+   "category_name": "Tops",
+   "eyebrow": "Product focus",
+   "description": "Architectural silhouette engineered for universal wear. Crafted in 280gsm organic combed cotton jersey with a lowered shoulder line, high dense collar, and a boxy, fluid drape that elevates daily utility into quiet luxury.",
+   "tags": [
+    "Unisex",
+    "Oversized",
+    "Tee"
+   ],
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "images": [
+    {
+     "id": "heavyweight-unisex-oversized-tee-a",
+     "widths": [
+      360,
+      640,
+      1000
+     ],
+     "w": 1000,
+     "h": 1334,
+     "kind": "photo"
+    },
+    {
+     "id": "heavyweight-unisex-oversized-tee-b",
+     "widths": [
+      360,
+      640,
+      1000
+     ],
+     "w": 1000,
+     "h": 1334,
+     "kind": "photo"
+    }
+   ],
+   "source": "ILA Premium Collection Moodboard, as supplied by client"
+  }
+ ]
+}
